@@ -19,6 +19,9 @@ RetroTube is an HTML-based project inspired by the classic YouTube experience. I
 - ⚡ Lightweight and simple.
 - 🌐 Runs directly in your web browser.
 
+## 👷‍♂️ What's new?
+1. Added Real YouTube 2005 Privacy Policy
+
 ## 🛠️ Built With
 
 - HTML
